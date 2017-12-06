@@ -4,3 +4,4 @@ Also, includes graphics from official NYU style guide
 
 Published at <https://www.overleaf.com/latex/templates/new-york-university-nyu-presentation-template/vgnmxfjctkcr>
 
+![Screenshot](screenshot.jpg)
